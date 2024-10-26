@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>myname-maven</artifactId>
+    <artifactId>DmytroMikulin-maven</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
@@ -35,7 +35,7 @@
                             <goal>shade</goal>
                         </goals>
                         <configuration>
-                            <finalName>myname</finalName>
+                            <finalName>DmytroMikulin</finalName>
                         </configuration>
                     </execution>
                 </executions>
